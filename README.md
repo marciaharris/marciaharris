@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**marciaharris/marciaharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
     <link rel="stylesheet" href="stylesheet.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong|Gabarito">
 </head>
